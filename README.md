@@ -20,7 +20,7 @@
 
 1. **Navigate to Frontend Directory**:
    ```bash
-   cd google_sheet_frontend
+   cd google-sheet-frontend
    ```
 
 2. **Install Node Modules**:
