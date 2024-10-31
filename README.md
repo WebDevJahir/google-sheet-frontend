@@ -16,9 +16,9 @@
 - **Node.js** (v14 or higher)
 - **Google Cloud Project** is configured with OAuth2 Client ID, Secret ID and Google Sheets API is enabled.
 
-### Setting Up the Frontend (Vue with Vite)
+### Setting Up the Project (Vue with Vite)
 
-1. **Navigate to Frontend Directory**:
+1. **Navigate to the Directory**:
    ```bash
    cd google-sheet-frontend
    ```
@@ -28,7 +28,7 @@
    npm install
    ```
 
-4. **Run the Frontend Server**:
+4. **Run the Server**:
    ```bash
    npm run dev
    ```
